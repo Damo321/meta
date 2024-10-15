@@ -1,8 +1,4 @@
 {
-  "songs": [
-    {
-      "filename": "PRETTY FLAT.mp3",
-      "comment": "This song was recorded live at XYZ Studio. It contains lyrics written by James Addler and music composed by Damian Pitcon during lockdown."
-    },
-  ]
+
+    "PRETTY FLAT": "This is a comment for Pretty Flat."
 }
